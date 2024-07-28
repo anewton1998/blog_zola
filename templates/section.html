@@ -1,0 +1,19 @@
+{% extends "index.html" %}
+
+{%- block title -%}
+{{ title_macros::title(page_title=section.title, main_title=config.title) }}
+{%- endblock -%}
+
+{% block header %}
+
+{{ super() }}
+<div style="display: block;">
+{%- if page.summary %}
+  {{ page.summary | markdown(inline=true) | safe }}
+{%- elif page.description %}
+  {{ page.description | safe }}
+{%- elif page.content %}
+  {{ page.content | striptags | truncate(length=150) | safe }}
+{%- endif %}
+</div>
+{% endblock header %}
