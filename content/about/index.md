@@ -2,7 +2,7 @@
 title = "About Me"
 +++
 <p align="center">
-  <img src="rcode3.png" />
+  <img src="/rcode3.png" />
 </p>
 
 My name is Andrew Newton, but my friends, my family,
