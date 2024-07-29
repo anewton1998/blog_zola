@@ -44,7 +44,7 @@ By contrast, WebFlux is based on [Project Reactor](https://projectreactor.io/) w
 
 Other than it's core Reactive library, the two differ in their approach to microservices. At the core, a Vert.x component (called a verticle) uses the Vert.x [event bus](https://vertx.io/docs/vertx-core/java/#event_bus):
 
-```
+```java
 EventBus eb = vertx.eventBus();
 
 eb.consumer("news.uk.sport", message -> {

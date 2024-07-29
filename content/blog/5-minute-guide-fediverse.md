@@ -45,4 +45,4 @@ This time last year there were only about 313,000 users, so the network has grow
 ## Conclusion
 
 Try it out... see how you like it. Go to [Join Mastodon](67.205.187.155) to pick an instance and get started. And if you want to toot with me, 
-I'm [@rcode3@masto.rootdc.xyz](https://masto.rootdc.xyz/@rcode3).
+I'm [@rcode3@fosstodon.org](https://fosstodon.org/@rcode3) [updated].
