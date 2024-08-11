@@ -28,6 +28,7 @@ menu_items = [
     # $BASE_URL is going to be substituted by base_url from configuration
     {name = "blog", url = "$BASE_URL"},
     {name = "about me", url = "$BASE_URL/about"},
+    {name = "RDAP Webbook", url="https://rdap.rcode3.com"},
     
 ]
 
