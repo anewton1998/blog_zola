@@ -158,11 +158,12 @@ Bachelor of Science in Computer Science, Southern College of Technology, Mariett
 
 ---
 
-* Latest ActivityPub side projects at <https://codeberg.org/rcode3>.
+* Co-organizer of the [Northern Virginia Linux Users Group](https://novalug.org).
 * Board Member, Lee Graham Community Pool, Falls Church, VA.
 * Fryer of Fish Extraordinaire, Annual St. James Lenten Fish Fry, Falls Church, VA.
 * Saint James Parish Stakeholder for the [Diocese of Arlington WorkCamp](https://www.arlingtondiocese.org/youth-ministry/workcamp/workcamp/).
-* Co-organizer of the [Northern Virginia Linux Users Group](https://novalug.org).
+* Latest ActivityPub side projects at <https://codeberg.org/rcode3>.
+* Pack 681 Cub Scouts, Den Leader & Committee Chair (2015-2020)
 
 # REFERENCES
 
